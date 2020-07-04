@@ -6,7 +6,3 @@
 
 30% : web development mostly on the backend side dealing with millions of traffic everyday.
 
-📫 How to reach me: you will find your way 
-
-
-
