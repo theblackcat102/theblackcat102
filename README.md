@@ -6,3 +6,16 @@
 
 35% : web development mostly on the backend side dealing with millions of traffic everyday.
 
+
+Currently working on these topics
+
+* Self supervised multi modal learning
+
+* Writing Master thesis on entity disambiguation
+
+* Data mining
+  - url domain-region mapping
+  - search engine queries rank
+
+* Multilingual NLP models for sentiment analysis, entity disambiguation/recognition, aspect based sentiment
+
