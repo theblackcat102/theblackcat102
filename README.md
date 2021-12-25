@@ -8,8 +8,6 @@ Currently working on these side project topics
 
 * Self supervised multi modal learning
 
-* Writing Master thesis on entity disambiguation
-
 * Data mining
   - url domain-region mapping
   - search engine queries rank
