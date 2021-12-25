@@ -14,3 +14,4 @@ Currently working on these side project topics
 
 * Multilingual NLP models for sentiment analysis, entity disambiguation/recognition, aspect based sentiment
 
+* Graph in social networks
