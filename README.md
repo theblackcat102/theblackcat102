@@ -2,7 +2,7 @@
 
 ~~65% research, 35% software dev~~
 
-ML Engineer as day job
+Sr ML Engineer as day job
 
 Currently working on these side project topics
 
