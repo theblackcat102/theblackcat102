@@ -12,6 +12,4 @@ Currently working on these side project topics
   - url domain-region mapping
   - search engine queries rank
 
-* Multilingual NLP models for sentiment analysis, entity disambiguation/recognition, aspect based sentiment
-
-* Graph in social networks
+* ASR and search 
