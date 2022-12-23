@@ -6,10 +6,11 @@ Sr ML Engineer as day job
 
 Currently working on these side project topics
 
-* Self supervised multi modal learning
+* ChatGPT and LLM training
 
 * Data mining
   - url domain-region mapping
   - search engine queries rank
 
-* ASR and search 
+
+* Self supervised multi modal learning
