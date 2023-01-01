@@ -6,7 +6,7 @@ Sr ML Engineer as day job
 
 Currently working on these side project topics
 
-* ChatGPT and LLM training
+* ChatGPT clone and LLM training
 
 * Data mining
   - url domain-region mapping
