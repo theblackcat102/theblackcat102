@@ -10,7 +10,7 @@ Currently working on these side project topics
 
 * Data mining
   - url domain-region mapping
-  - search engine queries rank
+  - reranking search engine using neural nets
 
 
 * Self supervised multi modal learning
