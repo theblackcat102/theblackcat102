@@ -14,3 +14,5 @@ Currently working on these side project topics
 
 
 * Self supervised multi modal learning
+
+[My huggingface profile](https://huggingface.co/theblackcat102)
