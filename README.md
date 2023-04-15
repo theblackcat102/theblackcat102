@@ -2,7 +2,7 @@
 
 ~~65% research, 35% software dev~~
 
-Sr ML Engineer as day job
+Staff ML Engineer as day job
 
 Currently working on these side project topics
 
@@ -12,7 +12,6 @@ Currently working on these side project topics
   - url domain-region mapping
   - reranking search engine using neural nets
 
-
-* Self supervised multi modal learning
+* local assistant ( LLM model ) for handling my daily info aggregation and search
 
 [My huggingface profile](https://huggingface.co/theblackcat102)
