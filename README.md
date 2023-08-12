@@ -6,7 +6,7 @@ Staff ML Engineer as day job
 
 Currently working on these side project topics
 
-* ChatGPT clone and LLM training
+* Open Source LLM Assistant : [OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327)
 
 * Data mining
   - url domain-region mapping
