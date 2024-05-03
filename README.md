@@ -2,11 +2,13 @@
 
 ~~65% research, 35% software dev~~
 
-Staff ML Engineer as day job
+Research Scientist at Appier
+
+* Improving LLM performance in as Agent in real world
+
+* LLM internals
 
 Currently working on these side project topics
-
-* Open Source LLM Assistant : [OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327)
 
 * Data mining
   - url domain-region mapping
