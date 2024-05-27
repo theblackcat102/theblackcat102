@@ -1,4 +1,4 @@
-### Hi there 👋
+### Programming is the world of imagination
 
 ~~65% research, 35% software dev~~
 
